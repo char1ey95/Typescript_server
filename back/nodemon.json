@@ -1,4 +1,4 @@
 {
     "watch": ["./**"],
-    "exec": "server.js"
+    "exec": "ts-node -r tsconfig-paths/register server.js"
 }
