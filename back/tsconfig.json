@@ -5,7 +5,7 @@
         "esModuleInterop": true,
         "target": "ES6",
         "strict": true,
-        "baseUrl": "./",
+        "baseUrl": "./src",
         "paths": {
             "@main/*":["main/*"],
             "@auth/*":["auth/*"],
